@@ -1,0 +1,21 @@
+Designator	Val	Package	Mid X	Mid Y	Rotation	Layer
+C1	100nF	C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	97.028	-116.84	180	bottom
+C2	100nF	C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	80.518	-104.14	0	bottom
+C3	100nF	C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	109.728	-104.14	180	bottom
+C4	100nF	C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	97.2605	-91.44	180	bottom
+C5	100nF	C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	200.9355	-104.14	180	bottom
+C6	100nF	C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	174.9845	-104.14	180	bottom
+C7	100nF	C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	187.7275	-91.44	180	bottom
+C8	100nF	C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	187.6845	-116.84	180	bottom
+Q1	MMBT3904	SOT-23	141.986	-98.806	0	bottom
+R1	10K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	118.094	-104.14	0	bottom
+R2	10K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	105.68	-116.84	0	bottom
+R3	10K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	72.136	-104.14	180	bottom
+R4	10K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	105.426	-91.44	0	bottom
+R5	10K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	198.104	-91.44	0	bottom
+R6	10K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	210.042	-104.14	0	bottom
+R7	10K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	184.896	-104.14	0	bottom
+R8	10K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	198.136	-116.84	0	bottom
+R9	1K	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	146.812	-97.79	0	bottom
+R10	100R	R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	146.685	-116.84	0	bottom
+##	End					
