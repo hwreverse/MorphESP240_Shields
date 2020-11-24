@@ -16,7 +16,8 @@ The MorphESP 240 is actually campaigning [here on Crowdsupply](https://www.crowd
 
 ### - [Gamepad Shield](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_gamepadshield) (complete)
 
-- 2x4 Button Gamepad Shield and connection to optional Buzzer ready to be fabricated and assembled by the PCBA service of your choice. It can also be soldered by hand as I used only 0805 and SOT-23 footprints for the passives and the transistor (on the backside).  Pushbuttons are classic, comfy 12mm x 12mm x 4.3/5mm units, that won't use that much your fingertips. I included alsoa BOM and a CPL file in the main Directory in the [JLCPCB](https://jlcpcb.com/) Format for PCBA (PCB Assembly)
+- 2x4 Button Gamepad Shield and connection to optional Buzzer ready to be fabricated and assembled by the PCBA service of your choice. It can also be soldered by hand as I used only 0805 and SOT-23 footprints for the passives and the transistor (on the backside).  Pushbuttons are classic, comfy 12mm x 12mm x 4.3/5mm units, that won't use that much your fingertips. 
+- Gerber files and archive are available too. I included alsoa BOM and a CPL file in the main Directory in the [JLCPCB](https://jlcpcb.com/) Format for PCBA (PCB Assembly)
 
 ![Gamepad for MorphESP 240](img/gamepad_small.jpg)
 ![Gamepad for MorphESP 240](img/gamepadfull_small.png))
