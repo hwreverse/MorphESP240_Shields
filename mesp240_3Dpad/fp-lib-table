@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name mesp240_gamepadshield)(type KiCad)(uri ${KIPRJMOD}/mesp240_gamepadshield.pretty)(options "")(descr ""))
+  (lib (name mesp240_3Dpad)(type KiCad)(uri ${KIPRJMOD}/mesp240_3Dpad.pretty)(options "")(descr ""))
+)

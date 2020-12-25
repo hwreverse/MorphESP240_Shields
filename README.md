@@ -4,15 +4,7 @@ The MorphESP 240 is actually campaigning [here on Crowdsupply](https://www.crowd
 
 <br><br>
 
-### - [Da Bomb Shield (Draft - unfinished)](https://github.com/hwreverse/MorphESP240_Shields/tree/main/da_bomb_breadboard)
 
-- If the project is great, then the Prototyping Shield must be surely...
-
-**- Da Bomb!**
-
-*... in the early design stage ...*
-
-![Da Bomb](img/dabomb_small.jpg)
 
 ### - [Gamepad Shield](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_gamepadshield) (complete)
 
@@ -22,6 +14,24 @@ The MorphESP 240 is actually campaigning [here on Crowdsupply](https://www.crowd
 ![Gamepad for MorphESP 240](img/gamepad_small.jpg)
 ![Gamepad for MorphESP 240](img/gamepadfull_small.png))
 
+### - [Gamepad Shield 3D](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_3Dpad) (complete)
+
+- Next evolution of the Gamepad Shield in a new design with two additional analog josticks and a I2C Gyroscope + Accelerometer integrated circuit for Position & Inertia capture. 
+- 2x4 Button Gamepad Shield and connection to optional Buzzer ready to be fabricated and assembled by the PCBA service of your choice. It can also be soldered by hand as I used only 0805 and SOT-23 footprints for the passives and the transistor (on the backside).  Pushbuttons are classic, comfy 12mm x 12mm x 4.3/5mm units, that won't use that much your fingertips. 
+- Gerber files and archive are available too. 
+
+![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_small.png)
+![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_composite_small.png))
+
+### - [Da Bomb Shield (Draft - unfinished)](https://github.com/hwreverse/MorphESP240_Shields/tree/main/da_bomb_breadboard)
+
+- If the project is great, then the Prototyping Shield must be surely...
+
+**- Da Bomb!**
+
+*... in the early design stage ...*
+
+![Da Bomb](img/dabomb_small.jpg)
 
 ### - [MorphESP 240 to Sharp PC-G850* Shield](https://github.com/hwreverse/MorphESP240_Shields/tree/main/morphesp240_g850_interface) (complete)
 
