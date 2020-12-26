@@ -12,7 +12,7 @@ The MorphESP 240 is actually campaigning [here on Crowdsupply](https://www.crowd
 - Gerber files and archive are available too. I included alsoa BOM and a CPL file in the main Directory in the [JLCPCB](https://jlcpcb.com/) Format for PCBA (PCB Assembly)
 
 ![Gamepad for MorphESP 240](img/gamepad_small.jpg)
-![Gamepad for MorphESP 240](img/gamepadfull_small.png))
+![Gamepad for MorphESP 240](img/gamepadfull_small.png)
 
 ### - [Gamepad Shield 3D](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_3Dpad) (complete)
 
@@ -21,7 +21,15 @@ The MorphESP 240 is actually campaigning [here on Crowdsupply](https://www.crowd
 - Gerber files and archive are available too. 
 
 ![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_small.png)
-![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_composite_small.png))
+![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_composite_small.png)
+
+### - [OPLL 8-bit Sound Card Shield](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_opll) (complete)
+
+- OPLL 8-Bit Sound Card Shield based on the cheap Yamaha YM2413B Sound Chip. As the MorphESP-240 only has 3.3V from the Lipo (5V only from USB), we had to generate 5V through a Boost converter for the YM2413B as well as the opamp. This implied that level conversion had to be added as well. Special care was exercised to get rid of the ripples for the 5V rail.
+- Gerber files and archive are available too. 
+
+![OPLL Sound Card Shield](img/mesp240_opll_small_one.jpg)
+![OPLL Sound Card Shield](img/mesp240_opll_small_two.jpg)
 
 ### - [Da Bomb Shield (Draft - unfinished)](https://github.com/hwreverse/MorphESP240_Shields/tree/main/da_bomb_breadboard)
 
