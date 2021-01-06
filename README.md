@@ -3,6 +3,7 @@ Here I will publish finished and "Work-in Progress" Shields Designs for the Morp
 The MorphESP 240 is actually campaigning [here on Crowdsupply](https://www.crowdsupply.com/morpheans/morphesp-240) . He, as a creator, and we all as Backers are also counting on your support !
 
 <br><br>
+NB: I don't supply the firmware, I am busy with electronics :))
 
 
 
@@ -22,6 +23,16 @@ The MorphESP 240 is actually campaigning [here on Crowdsupply](https://www.crowd
 
 ![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_small.png)
 ![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_composite_small.png)
+
+
+### - [IRMaster Shield](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_irmaster) (complete)
+
+- Let's you control all IR controllable appliances: TV's, AC units, set top boxes,... Can learn any IR Code (What are IR Receiver and MorphESP-240 power good for!) 
+Has also a special "TV–π–soff!" Button, with a functionality borrowed from TV-B-Gone, which turn off any known TV!
+- Gerber files and archive are available too. 
+
+![IRMaster with MorphESP](img/irmaster1.jpg)
+![IRMAster from the LED's side](img/irmaster2.jpg)
 
 ### - [OPLL 8-bit Sound Card Shield](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_opll) (complete)
 
