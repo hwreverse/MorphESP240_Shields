@@ -31,8 +31,8 @@ NB: I don't supply the firmware, I am busy with electronics :))
 Has also a special "TV–π–soff!" Button, with a functionality borrowed from TV-B-Gone, which turn off any known TV!
 - Gerber files and archive are available too. 
 
-![IRMaster with MorphESP](img/irmaster1.jpg)
-![IRMAster from the LED's side](img/irmaster2.jpg)
+![IRMaster with MorphESP](img/irmaster1.png)
+![IRMAster from the LED's side](img/irmaster2.png)
 
 ### - [OPLL 8-bit Sound Card Shield](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_opll) (complete)
 
