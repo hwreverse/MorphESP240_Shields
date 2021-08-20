@@ -15,14 +15,25 @@ NB: I don't supply the firmware, I am busy with electronics :))
 ![Gamepad for MorphESP 240](img/gamepad_small.jpg)
 ![Gamepad for MorphESP 240](img/gamepadfull_small.png)
 
-### - [Gamepad Shield 3D](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_3Dpad) (complete)
+### - [Gamepad Shield 3D](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_3Dpad) (complete)(UPDATED : 21.Aug.2021!)
 
 - Next evolution of the Gamepad Shield in a new design with two additional analog josticks and a I2C Gyroscope + Accelerometer integrated circuit for Position & Inertia capture. 
 - 2x4 Button Gamepad Shield and connection to optional Buzzer ready to be fabricated and assembled by the PCBA service of your choice. It can also be soldered by hand as I used only 0805 and SOT-23 footprints for the passives and the transistor (on the backside).  Pushbuttons are classic, comfy 12mm x 12mm x 4.3/5mm units, that won't use that much your fingertips. 
-- Gerber files and archive are available too. 
+ 
+- <b>UPDATED: Moved all parts to front side. Changed strategy to factory assemby, therefore changed all passives to mainly 0402, at max 0603. Changed Accelerometer + Gyro to MPU6050, the Alps thumb joysticks to 3D161 from Korean Hroparts Elec (what was available @ JLCPCB/Parts for PCBA). 
+- Removed the stupid 5V Connection. Added hardware debounce with RC-lowpass & Schmitt-Trigger on all buttons. 
+- Added connection to +3.3V vibration motor. Added 2 LEDs Added 4 Pads (GND, +3.3V, SDA, SCL) on the backside of the PCB to be able to connect independently with the I2C BUS (gyro)</b>
+- Gerber files, BOM and CPL Files for Assembly (JLCPCB Format) and Project archive (Kicad 5.99 nightly only Format!) are available too. 
+
+New Photos:
+
+![Gamepad 3D for MorphESP 240](img/mesp240_3DpadR2_small.png)
+
+Old photos:
 
 ![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_small.png)
 ![Gamepad 3D for MorphESP 240](img/mesp240_3Dpad_composite_small.png)
+
 
 
 ### - [IRMaster Shield](https://github.com/hwreverse/MorphESP240_Shields/tree/main/mesp240_irmaster) (complete)
