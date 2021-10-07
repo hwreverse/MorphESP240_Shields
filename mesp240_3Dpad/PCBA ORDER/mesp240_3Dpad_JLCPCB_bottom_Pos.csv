@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"TP1","TestPoint","TestPoint_Pad_3.0x3.0mm",137.78,-120.67,180.0,bottom
+"TP2","TestPoint","TestPoint_Pad_3.0x3.0mm",150.08,-126.17,180.0,bottom
+"TP3","TestPoint","TestPoint_Pad_3.0x3.0mm",150.15,-134.27,180.0,bottom
+"TP4","TestPoint","TestPoint_Pad_3.0x3.0mm",137.77,-115.79,180.0,bottom
